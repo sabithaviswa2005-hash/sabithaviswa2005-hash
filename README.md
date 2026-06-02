@@ -104,5 +104,7 @@ Driven by curiosity and problem-solving, I specialize in turning complex data in
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  📊 Turning Data into Actionable Insights
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
