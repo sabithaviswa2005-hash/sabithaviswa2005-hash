@@ -79,22 +79,18 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
 </p>
 ---
 
-### Connect with Me
+<h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
   <a href="mailto:sabithaviswa2005@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="45" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sabitha-viswanathan-a2503b332">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
-  
-  &nbsp;&nbsp;&nbsp;
-  
+  &nbsp;&nbsp;
   <a href="https://github.com/sabithaviswa2005-hash">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" />
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
 </p>
