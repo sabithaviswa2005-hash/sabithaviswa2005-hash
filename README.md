@@ -1,5 +1,5 @@
 <!-- Typing animation -->
-<h1 align="center">Hi, I'm Sabitha V 👋</h1>
+<h1 align="center">Hi, I'm Sabitha 👋</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+data+into+decisions;%F0%9F%93%8APower+BI+%C2%B7+SQL+%C2%B7+Python;%F0%9F%9A%80Scroll+down+%E2%80%94+my+projects+speak+louder+than+my+bio." alt="Typing SVG" /></a>
 <p/>
