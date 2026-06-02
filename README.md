@@ -3,7 +3,9 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+data+into+decisions;%F0%9F%93%8APower+BI+%C2%B7+SQL+%C2%B7+Python;Scroll+down+%E2%80%94+See+my+work+below.+%F0%9F%91%87" alt="Typing SVG" /></a><p/>
 <p align="center">
-MBA candidate in Business Analytics at VIT Vellore · Computer Science background · HR Analytics Intern at C-Tech Engineering. I turn messy datasets into clear decisions — across HR, finance, retail, and operations.
+🎯 About Me
+
+Driven by curiosity and problem-solving, I specialize in turning complex data into clear business insights. As an MBA Business Analytics candidate with a Computer Science background, I work with analytics, visualization, and business intelligence tools to support data-driven decision-making across HR, operations, finance, and business domains.
 </p>
 
 ---
@@ -100,3 +102,7 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&text=Turning%20Data%20Into%20Business%20Impact&fontSize=30&fontAlignY=70"/>
+</p>
