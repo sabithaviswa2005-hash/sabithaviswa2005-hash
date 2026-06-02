@@ -7,55 +7,56 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
 </p>
 
 ---
-<h2 align="center">🚀 Languages</h2>
+## 🚀 Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql" />
+### Languages
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp;
 </p>
 
----
+### Analytics & BI
 
-<h2 align="center">📊 Analytics & BI</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Orange_Data_Mining-FF7900?style=for-the-badge" />
+<p align="left">
+<img src="https://img.icons8.com/color/48/power-bi.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>&nbsp&nbsp&nbsp&nbsp&nbsp;
 </p>
 
----
+Power BI • Excel • Tableau • Orange (Data Mining)
 
-<h2 align="center">📚 Libraries</h2>
+### Libraries
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
 </p>
 
-<p align="center">
-  Pandas • NumPy • Matplotlib • Seaborn
+Pandas • NumPy • Matplotlib • Seaborn
+
+### Tools & Environments
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
 </p>
 
----
+Jupyter Notebook • Google Colab • GitHub • VS Code • Lucidchart
 
-<h2 align="center">🛠 Tools & Environments</h2>
+### Other Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github" />
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
+<img src="https://img.icons8.com/color/48/google-logo.png"/>
 </p>
 
-<p align="center">
-  Jupyter Notebook • Google Colab • Lucidchart
-</p>
-
----
-
-<h2 align="center">💼 Other Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white" />
-</p>
+MS Office • Google Workspace
 ---
 
 ### Connect with Me
