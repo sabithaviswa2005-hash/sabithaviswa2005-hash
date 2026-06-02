@@ -104,5 +104,5 @@ Driven by curiosity and problem-solving, I specialize in turning complex data in
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&text=Turning%20Data%20Into%20Business%20Impact&fontSize=30&fontAlignY=70"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
