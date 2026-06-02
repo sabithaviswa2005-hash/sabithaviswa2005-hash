@@ -28,8 +28,7 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
   &nbsp;&nbsp;&nbsp;
-<img src="https://orangedatamining.com/wp-content/uploads/2019/01/favicon.ico" width="45"/>
-</p>
+<img src="https://cdn.prod.website-files.com/69cd59b46b485182422b1176/69cd59b46b485182422b3786_6749b73fd66c796efe44ad7f_66273f97451562ec40c2b15b_SLiaKbWnNWEaeITgWEts9kxdnr6a2FG9PNbZiVKGKv4MhINqMqhSD6mEL0A5oUcT5bvXL4wMiUob6-ctm3i9J4Ch0vdCBQBxnYcqDkbq0m_dYasG6qL-t0pkvow2ot0sQl9gI9T96L6qqDsuXl9kAw.png" width="45"/></p>
 
 <p align="center">
   Power BI • Excel • Tableau • Orange (Data Mining)
