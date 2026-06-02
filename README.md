@@ -19,6 +19,7 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
+
 <h3 align="center">Analytics & BI</h3>
 
 <p align="center">
@@ -33,6 +34,7 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
 <p align="center">
   Power BI • Excel • Tableau • Orange (Data Mining)
 </p>
+
 
 <h3 align="center">Libraries</h3>
 
@@ -50,6 +52,7 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
   Pandas • NumPy • Matplotlib • Seaborn
 </p>
 
+
 <h3 align="center">Tools & Environments</h3>
 
 <p align="center">
@@ -66,6 +69,7 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
   Jupyter Notebook • Google Colab • GitHub • VS Code • Lucidchart
 </p>
 
+
 <h3 align="center">Other Tools</h3>
 
 <p align="center">
@@ -77,8 +81,8 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
 <p align="center">
   MS Office • Google Workspace
 </p>
----
 
+---
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
@@ -94,3 +98,5 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
     <img src="https://skillicons.dev/icons?i=github" height="45" />
   </a>
 </p>
+
+---
