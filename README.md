@@ -27,6 +27,8 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://orangedatamining.com/wp-content/uploads/2021/06/cropped-orange-logo.png" width="45"/>
 </p>
 
 <p align="center">
