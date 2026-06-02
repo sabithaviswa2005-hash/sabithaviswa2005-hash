@@ -1,16 +1,12 @@
-## Hi there 👋
+<!-- Typing animation -->
+<h1 align="center">Hi, I'm Sabitha V 👋</h1>
 
-<!--
-**sabithaviswa2005-hash/sabithaviswa2005-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&width=500&lines=MBA+Business+Analytics+%40+VIT;HR+Analytics+Intern;Data+%7C+Business+%7C+Decisions" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+MBA candidate in Business Analytics at VIT Vellore · Computer Science background · HR Analytics Intern at C-Tech Engineering. I turn messy datasets into clear decisions — across HR, finance, retail, and operations.
+</p>
