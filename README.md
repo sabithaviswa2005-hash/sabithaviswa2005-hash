@@ -7,69 +7,56 @@ MBA candidate in Business Analytics at VIT Vellore · Computer Science backgroun
 </p>
 
 ---
+## 🚀 Languages & Tools
 
----
+### Languages
 
-### 🚀 Languages & Tools
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+</p>
 
-**Languages:**
+### Analytics & BI
 
+<p align="left">
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="45"/>
+</p>
 
+Power BI • Excel • Tableau • Orange (Data Mining)
 
+### Libraries
 
-  
-  
-  
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+</p>
 
+Pandas • NumPy • Matplotlib • Seaborn
 
+### Tools & Environments
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+</p>
 
-**Analytics & BI:**
+Jupyter Notebook • Google Colab • GitHub • VS Code • Lucidchart
 
+### Other Tools
 
+<p align="left">
+<img src="https://img.icons8.com/color/48/microsoft-office-2019.png"/>
+<img src="https://img.icons8.com/color/48/google-logo.png"/>
+</p>
 
-
-  
-  
-  
-  
-
-
-
-
-**Libraries:**
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-**Tools & Environments:**
-
-
-
-
-  
-  
-  
-  
-  
-
-
-
-
-**Other Tools:**
-
-
-
-
-
+MS Office • Google Workspace
 ---
 
 ### Connect with Me
