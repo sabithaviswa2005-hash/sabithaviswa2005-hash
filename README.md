@@ -4,12 +4,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Turning+data+into+decisions;%F0%9F%93%8APower+BI+%C2%B7+SQL+%C2%B7+Python;Scroll+down+%E2%80%94+See+my+work+below.+%F0%9F%91%87" alt="Typing SVG" /></a><p/>
 <p align="center">
 <h1 >
-  
+🎯 About Me
 </h1>
-
 Driven by curiosity and problem-solving, I specialize in turning complex data into clear business insights. As an MBA Business Analytics candidate with a Computer Science background, I work with analytics, visualization, and business intelligence tools to support data-driven decision-making across HR, operations, finance, and business domains.
 </p>
-----------
+---
+
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
