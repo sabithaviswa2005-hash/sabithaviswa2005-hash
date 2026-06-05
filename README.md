@@ -103,23 +103,6 @@ Driven by curiosity and problem-solving, I specialize in turning complex data in
 </p>
 
 ---
-<h3 align="center">🌐 Connect With Me</h3>
-
-<p align="center">
-  <a href="mailto:sabithaviswa2005@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sabitha-viswanathan-a2503b332">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sabithaviswa2005-hash">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-</p>
-
----
 
 <p align="center">
   📊 Turning Data into Actionable Insights
